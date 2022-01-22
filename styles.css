@@ -2,3 +2,18 @@
     margin-top: 20px;
     margin-bottom: 20px;
 }
+
+.photoMain {
+    height: 400px;
+    width: 400px;
+    object-fit: none;
+}
+
+.active {
+    color: black !important;
+    background-color:  white !important;
+}
+
+.text-gray {
+    color: #c4c4c4;
+}
